@@ -4042,6 +4042,8 @@ If you are looking for a way to prepare for a certain exam this is the section f
 * [Cloud SysOps Administration Associate](certificates/aws-cloud-sysops-associate.md) (Latest update: Oct 2022)
 
 
+
+
 #### Azure
 
 * [AZ-900](certificates/azure-fundamentals-az-900.md) (Latest update: 2021)
