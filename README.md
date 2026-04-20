@@ -135,7 +135,8 @@ Ethernet simply refers to the most common type of Local Area Network (LAN) used 
 
 A MAC address is a unique identification number or code used to identify individual devices on the network.
 
-Packets that are sent on the ethernet are always coming from a MAC address and sent to a MAC address. If a network adapter is receiving a packet, it is comparing the packet’s destination MAC address to the adapter’s own MAC address.
+Packets that are sent on the ethernet are always coming from a MAC address and sent to a MAC address. If a network adapter is receiving a packet, it is comparing the packet’s destination MAC address to the adapter’s own MAC address..
+
 
 </b></details>
 
